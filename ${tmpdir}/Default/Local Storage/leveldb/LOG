@@ -1,1 +1,3 @@
-2020/10/07-14:45:51.317 1b84 Reusing MANIFEST D:\github\icccy.github.io\${tmpdir}\Default\Local Storage\leveldb/MANIFEST-000001
+2020/10/10-21:45:13.731 e98 Reusing MANIFEST D:\github\icccy.github.io\${tmpdir}\Default\Local Storage\leveldb/MANIFEST-000001
+2020/10/10-21:45:13.732 e98 Recovering log #3
+2020/10/10-21:45:13.732 e98 Reusing old log D:\github\icccy.github.io\${tmpdir}\Default\Local Storage\leveldb/000003.log 
